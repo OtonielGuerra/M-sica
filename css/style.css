@@ -2,6 +2,13 @@ body {
     text-align: center;
 }
 
-.main-container {
-    margin-top: 25px;
+.container {
+    margin: 30px;
+}
+
+.back {
+    background-image: url('/Imagenes/Otto.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
 }
