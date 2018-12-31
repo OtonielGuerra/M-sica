@@ -12,3 +12,11 @@ body {
     background-size: 100% 100%;
     background-attachment: fixed;
 }
+
+.left {
+    text-align: left
+}
+
+.rigth {
+    text-align: right
+}
